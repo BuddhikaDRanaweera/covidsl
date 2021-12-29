@@ -4,7 +4,7 @@ function Footer(props) {
   return (
     <div>
       <Grid container direction="row" justifyContent="flex-start">
-        <h4>Designed & Developed By: Buddhika D Ranaweera</h4>
+        <h4>Developed By: Buddhika D Ranaweera</h4>
       </Grid>
       <Grid container direction="row" justifyContent="flex-start">
         <h4>Updated Time: {props.time}</h4>
